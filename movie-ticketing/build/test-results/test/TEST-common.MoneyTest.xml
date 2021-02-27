@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="common.MoneyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-27T18:58:48" hostname="MacBook-Pro.local" time="0.02">
+  <properties/>
+  <testcase name="testMoney()" classname="common.MoneyTest" time="0.02"/>
+  <system-out><![CDATA[test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
